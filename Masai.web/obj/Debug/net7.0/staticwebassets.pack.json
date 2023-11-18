@@ -1,0 +1,1261 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Masai.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Masai.web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Site\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\icon.css",
+      "PackagePath": "staticwebassets\\Site\\css\\icon.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\main.css",
+      "PackagePath": "staticwebassets\\Site\\css\\main.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\main_ui.css",
+      "PackagePath": "staticwebassets\\Site\\css\\main_ui.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Site\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\owl.theme.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\owl.theme.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\1.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\2.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\3.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\4.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\5.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\6.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\high.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\high.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\huge.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\huge.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\wide.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\fullscreen\\wide.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnclose.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnclose.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnplay.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\btnplay.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\images\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\plugins\\prettyphoto\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\Site\\css\\plugins\\prettyphoto\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\css\\style.css",
+      "PackagePath": "staticwebassets\\Site\\css\\style.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\Site\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\nucleo-outline.eot",
+      "PackagePath": "staticwebassets\\Site\\fonts\\nucleo-outline.eot"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\nucleo-outline.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\nucleo-outline.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\nucleo-outline.woff",
+      "PackagePath": "staticwebassets\\Site\\fonts\\nucleo-outline.woff"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\nucleo-outline.woff2",
+      "PackagePath": "staticwebassets\\Site\\fonts\\nucleo-outline.woff2"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\vazir\\vazir-bold-fd-wl.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\vazir\\vazir-bold-fd-wl.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\fonts\\vazir\\vazir-fd-wl.ttf",
+      "PackagePath": "staticwebassets\\Site\\fonts\\vazir\\vazir-fd-wl.ttf"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\License_1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\License_1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\License_2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\License_2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-10.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-10.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-11.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-11.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-12.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-12.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-3.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-3.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-4.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-4.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-5.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-5.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-6.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-6.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-7.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-7.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-8.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-8.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\bigicon\\img-9.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\bigicon\\img-9.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\3.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\3.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\4.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\4.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\5.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\5.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\6.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\6.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\7.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\7.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai\\minilogo\\8.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai\\minilogo\\8.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Masai_w.png",
+      "PackagePath": "staticwebassets\\Site\\img\\Masai_w.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Price\\02.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\Price\\02.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Price\\03.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\Price\\03.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Price\\04.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\Price\\04.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Price\\05.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\Price\\05.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\Price\\06.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\Price\\06.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\about.png",
+      "PackagePath": "staticwebassets\\Site\\img\\about.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\01\\16781944460617.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\01\\16781944460617.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\01\\16785213091818.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\01\\16785213091818.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\01\\16789575390919.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\01\\16789575390919.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\02\\01.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\02\\01.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\02\\02.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\02\\02.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\02\\03.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\02\\03.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\bg_top.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\bg_top.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-7.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-8.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-8.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\banner_img\\img-9.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\banner_img\\img-9.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\blog\\post-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\blog\\post-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog\\post-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\blog\\post-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog\\post-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\blog\\post-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog\\post-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\blog\\post-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog\\post-5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\blog\\post-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog\\post-6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-10.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-10.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-7.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-7.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-8.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-8.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\brands\\brand-9.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\brands\\brand-9.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\empty-cart.png",
+      "PackagePath": "staticwebassets\\Site\\img\\empty-cart.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Site\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\hello.gif",
+      "PackagePath": "staticwebassets\\Site\\img\\hello.gif"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\apple-touch-icon-144-precomposed.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\apple-touch-icon-144-precomposed.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\favicon.ico",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\favicon.ico"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-10.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-10.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-11.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-11.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-3.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-3.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-4.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-4.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-5.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-5.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-6.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-6.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-7.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-7.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-8.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-8.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\ico\\png-9.png",
+      "PackagePath": "staticwebassets\\Site\\img\\ico\\png-9.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\img_icon.png",
+      "PackagePath": "staticwebassets\\Site\\img\\img_icon.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Site\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\map.png",
+      "PackagePath": "staticwebassets\\Site\\img\\map.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\map_2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\map_2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_10-10.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_10-10.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_10.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_10.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_11.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_11.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_12.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_12.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_13.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_13.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_14.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_14.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_15.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_15.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_16-16.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_16-16.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_16.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_16.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_17-17.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_17-17.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_17.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_17.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_18.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_18.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_19.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_19.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_20-20.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_20-20.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_20.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_20.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_21.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_21.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_22.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_22.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_23.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_23.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_5.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_5.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_6.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_6.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_7.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_7.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_8-8.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_8-8.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_8.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_8.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\p_9.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\p_9.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\single\\1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\single\\1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\single\\2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\single\\2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\single\\3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\single\\3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\single\\4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\single\\4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\single\\main.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\single\\main.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-big-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-big-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-big-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-big-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-big-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-big-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-big-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-big-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\product_img\\slider\\prod-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\product_img\\slider\\prod-thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\profile.jpg"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\profile\\1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\profile\\1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\profile\\2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\profile\\2.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\profile\\3.png",
+      "PackagePath": "staticwebassets\\Site\\img\\profile\\3.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\profile\\4.png",
+      "PackagePath": "staticwebassets\\Site\\img\\profile\\4.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\search.png",
+      "PackagePath": "staticwebassets\\Site\\img\\search.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\sell.png",
+      "PackagePath": "staticwebassets\\Site\\img\\sell.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\seller_1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\seller_1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\shegeft_1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\shegeft_1.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\successful-cart.png",
+      "PackagePath": "staticwebassets\\Site\\img\\successful-cart.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\img\\unsuccessful-cart.png",
+      "PackagePath": "staticwebassets\\Site\\img\\unsuccessful-cart.png"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\main.js",
+      "PackagePath": "staticwebassets\\Site\\js\\main.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\now-ui-kit.js",
+      "PackagePath": "staticwebassets\\Site\\js\\now-ui-kit.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\countdown.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\countdown.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\jquery.easing.1.3.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\jquery.easing.1.3.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\jquery.ez-plus.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\jquery.ez-plus.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\jquery.sharrre.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\jquery.sharrre.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\Site\\js\\plugins\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Site\\js\\plugins\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\man\\Education\\Masai\\Masai.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Masai.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Masai.web.props",
+      "PackagePath": "build\\Masai.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Masai.web.props",
+      "PackagePath": "buildMultiTargeting\\Masai.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Masai.web.props",
+      "PackagePath": "buildTransitive\\Masai.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
